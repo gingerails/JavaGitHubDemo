@@ -16,6 +16,7 @@ public class NewMainaa {
      */
     public static void main(String[] args) {
         System.out.println("Hello World I am trying"); //no
+        System.out.println("Hello World I am trying"); //no
     }
     
 }
